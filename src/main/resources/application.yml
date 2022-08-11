@@ -24,7 +24,6 @@ spring:
       username: root
       password: rladmlqls335
       driver-class-name: com.mysql.cj.jdbc.Driver
-
   batch:
     jdbc:
       initialize-schema: always
